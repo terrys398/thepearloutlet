@@ -1,0 +1,46 @@
+    <div class="navbar">
+      <div class="container">
+        <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+            <span class="icon-bar"></span>  
+            <span class="icon-bar"></span>  
+            <span class="icon-bar"></span>  
+        </button>
+        <div class="collapse navbar-collapse navHeaderCollapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#buyers">Buyer's Guide</a></li>
+            <li><a href="#basics">Pearl Basics</a></li>
+            <li><a href="#basics">Our Guarantee</a></li>
+            <li><a href="#basics">Testimonials</a></li>
+            <li><a href="#basics">Shipping</a></li>
+            <li><a href="#basics">Contact US</a></li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Articles<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="dropdown-header">Akoya Pearls</li>
+                <li><a href="#">Royally Reigning Supreme</a></li>
+                <li><a href="#">The Impressive History</a></li>
+				<li><a href="#">Where Nature &amp; Culture Meet</a></li>
+				<li><a href="#">Behind The Magic Mirror - Farming</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Freshwater Pearls</li>
+				<li><a href="#">Surging Popularity</a></li>
+				<li><a href="#">Farming</a></li>
+				<li><a href="#">Advantages</a></li>
+				<li><a href="#">What Designer's Don't Tell You</a></li>
+				<li><a href="#">Determining Quality</a></li>
+				<li><a href="#">Souffle - A New Star</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Tahitians Pearls</li>				
+				<li><a href="#">Tahitian Pearls: Bedazzling Beauty</a></li>
+                <li><a href="#">Four Truths About Tahitian Pearls</a></li>
+                <li><a href="#">The Science of Tahitian Farming</a></li>
+                <li><a href="#">Defining &amp; Determining Quality</a></li>
+              </ul>
+            </li>
+
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>

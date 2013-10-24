@@ -1,0 +1,10 @@
+    <div class="container header">
+		<div class="row">
+            <div class="col-lg-6">
+              <p><img src="img/main-header-lt.jpg" align="left" border=0 width="490"/></p>
+            </div>
+            <div class="col-lg-6 " align="right">
+                <p class="phone">1.866.673.3036</p>
+            </div>
+		</div>
+	</div>
