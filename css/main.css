@@ -118,3 +118,37 @@ ul.vert-nav { list-style: none; margin: 0; padding: 0;}
         padding-right: 0px;
 }
 
+
+.monthly-special-title {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 20px; 
+        color: #798E85;
+        text-decoration: bold;
+		text-align: center;
+}
+
+.monthly-special-text {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14px; 
+        color: #798E85;
+        text-decoration: underline;
+		text-align: center;
+    
+}
+
+
+.monthly-special-retail {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 12px; 
+        color: #4d4d4d;
+        text-decoration: none;
+		text-align: center;
+}
+
+.monthly-special-price {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14px; 
+        color: #4d4d4d;
+        text-decoration: bold;
+		text-align: center;    
+}
