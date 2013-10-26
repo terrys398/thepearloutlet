@@ -195,13 +195,13 @@
 }
 
 #wowslider-container1 .ws_images ul{
-	animation: wsBasic 15.6s infinite;
-	-moz-animation: wsBasic 15.6s infinite;
-	-webkit-animation: wsBasic 15.6s infinite;
+	animation: wsBasic 20.8s infinite;
+	-moz-animation: wsBasic 20.8s infinite;
+	-webkit-animation: wsBasic 20.8s infinite;
 }
-@keyframes wsBasic{0%{left:-0%} 25.64%{left:-0%} 33.33%{left:-100%} 58.97%{left:-100%} 66.67%{left:-200%} 92.31%{left:-200%} }
-@-moz-keyframes wsBasic{0%{left:-0%} 25.64%{left:-0%} 33.33%{left:-100%} 58.97%{left:-100%} 66.67%{left:-200%} 92.31%{left:-200%} }
-@-webkit-keyframes wsBasic{0%{left:-0%} 25.64%{left:-0%} 33.33%{left:-100%} 58.97%{left:-100%} 66.67%{left:-200%} 92.31%{left:-200%} }
+@keyframes wsBasic{0%{left:-0%} 19.23%{left:-0%} 25%{left:-100%} 44.23%{left:-100%} 50%{left:-200%} 69.23%{left:-200%} 75%{left:-300%} 94.23%{left:-300%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 19.23%{left:-0%} 25%{left:-100%} 44.23%{left:-100%} 50%{left:-200%} 69.23%{left:-200%} 75%{left:-300%} 94.23%{left:-300%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 19.23%{left:-0%} 25%{left:-100%} 44.23%{left:-100%} 50%{left:-200%} 69.23%{left:-200%} 75%{left:-300%} 94.23%{left:-300%} }
 
 #wowslider-container1 .ws_images {
 	border-radius:5px;
